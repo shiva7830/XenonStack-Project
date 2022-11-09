@@ -24,7 +24,7 @@ where they are comfortable.
  
 <img width="1019" alt="181075334-851ba685-b486-4961-99f8-d9670f4db817" src="https://user-images.githubusercontent.com/101035995/200918050-97e2e424-ebfd-473e-8194-f29ec9b22f68.png">
 
-we also provide the live link of our website and also the source code of our website from where you understand everything.
+we also provide the live link of our website and also the source code of our website from where you can understand everything.
 
 At the end thankyou for giving me this wonderful opportunity to show my frontend and backend web knowledege
 Thanks and Regards.
